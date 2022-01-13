@@ -1,2 +1,1 @@
-# class20
-gravedad en pelota
+# C20-Student-boilerplate-code
